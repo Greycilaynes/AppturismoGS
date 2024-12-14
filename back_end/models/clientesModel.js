@@ -1,8 +1,6 @@
-clientesModel.js
-
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb://127.0.0.1/reservas', { useNewUrlParser: true});
+mongoose.connect('mongodb+srv://gsprojetista:zJF5Wqja2vU77TgY@cluster0.dbd3n.mongodb.net/', { useNewUrlParser: true});
 
 var Schema = mongoose.Schema;
 

@@ -7,5 +7,12 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "do": "^0.7.0",
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0",
+    "mongose": "^0.0.2-security",
+    "tenv": "^0.2.3"
+  }
 }
